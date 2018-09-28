@@ -1,0 +1,6 @@
+framework module Pods_Typist {
+  umbrella header "Pods-Typist-umbrella.h"
+
+  export *
+  module * { export * }
+}
