@@ -1,4 +1,4 @@
-# TypeRacer
+# TypeSprint
 
 TypeRacer (WIP) - How fast can you type on your iPhone?
 
